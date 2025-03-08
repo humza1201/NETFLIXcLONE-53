@@ -9,8 +9,6 @@ Responsive design
 
 Netflix-style homepage layout
 
-Hover effects on movie thumbnails
-
 Navigation bar with logo and menu
 
 Footer section similar to Netflix
