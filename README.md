@@ -25,10 +25,6 @@ Add screenshots of your project here (You can upload images in the "Issues" tab 
 git clone https://github.com/humza1201/NETFLIXcLONE-53.git
 
 
-2. Open index.html in your browser
-
-
-
 🛠 Technologies Used
 
 HTML5
