@@ -14,12 +14,6 @@ Navigation bar with logo and menu
 Footer section similar to Netflix
 
 
-📸 Screenshots
-
-Add screenshots of your project here (You can upload images in the "Issues" tab of your repository, then use the generated URL to add them here).
-
-🔧 Installation
-
 1. Clone this repository:
 
 git clone https://github.com/humza1201/NETFLIXcLONE-53.git
